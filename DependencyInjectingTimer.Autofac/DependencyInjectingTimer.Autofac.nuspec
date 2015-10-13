@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DependencyInjectingTimer.Autofac</id>
+    <version>1.0.0.0</version>
+    <authors>Alfred Söderdahl</authors>
+    <owners>Alfred Söderdahl</owners>
+    <licenseUrl>https://github.com/AlfredSoderdahl/DependencyInjectingTimer.Autofac/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/AlfredSoderdahl/DependencyInjectingTimer.Autofac</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Asynchronous Timer that always execute it´s Action in a new child scope</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright © 2015 Alfred Söderdahl</copyright>
+    <tags>Dependency Injection Timer Autofac Async</tags>
+  </metadata>
+</package>
